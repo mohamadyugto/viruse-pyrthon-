@@ -5,4 +5,3 @@ import time
 
 while True:
     os.system("start cmd")
-    time.sleep(2)
